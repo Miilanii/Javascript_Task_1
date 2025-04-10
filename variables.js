@@ -11,6 +11,7 @@ if (isStudent){
 }else{
     console.log("Oopss!")
 }
+console.log(isStudent)
 
 // Exercise 2: Variable
 
